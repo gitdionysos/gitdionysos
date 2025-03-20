@@ -24,7 +24,7 @@ Sou administrador, faço estágio na área de Business Intelligence, planejo cri
     <img 
       alt="Destaque" 
       width="380px" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=gitdionysos&repo=gitdionysos&theme=tokyonight" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=gitdionysos&repo=my-projects&theme=tokyonight" 
     />
   </div>
 </div>
