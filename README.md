@@ -1,6 +1,6 @@
-## Olá, Me chamo Liberato
+## Olá, Me chamo Liberato Fernando,
 
-Planejo criar uns projetos maneiros de automação focado em áreas empresariais, software de bancos de dados e ERP's.
+Sou administrador, faço estágio na área de Business Intelligence, planejo criar uns projetos maneiros de automação focado em áreas empresariais, softwares, ERP's e bancos de dados, estou na jornada para aprender de Python.
 
 <div align="right">
   <img 
