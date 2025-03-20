@@ -6,9 +6,12 @@ Planejo criar uns projetos maneiros de automação focado em áreas empresariais
   <img 
     align="left" 
     alt="loficity" 
-    width="450px" 
+    height="320px"
+    width="460px" 
     src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" 
   />
+
+  <br>
 
   <div style="display: inline-block; text-align: left;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
