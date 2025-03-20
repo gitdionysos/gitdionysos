@@ -15,11 +15,11 @@ Sou administrador, faço estágio na área de Business Intelligence, planejo cri
 
   <div style="display: inline-block; text-align: left;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img 
-        alt="Status" 
-        width="380px" 
-        src="https://github-readme-stats.vercel.app/api?username=gitdionysos&show_icons=true&theme=tokyonight&custom_title=Status" 
-      />
+    <img 
+      alt="Status" 
+      width="380px" 
+      src="https://github-readme-stats.vercel.app/api?username=gitdionysos&show_icons=true&show_owner=true&theme=tokyonight&custom_title=Status&count_private=true" 
+    />
     </a>
     <img 
       alt="Destaque" 
