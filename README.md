@@ -48,12 +48,14 @@
     width="40" 
     src="https://icongr.am/devicon/python-plain-wordmark.svg?size=128&color=c1bbd3" 
   />
-  <img
-    alt="Linkedin Icon" 
-    height="40" 
-    width="40" 
-    src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=c1bbd3" 
-  />
+  <a href="https://www.linkedin.com/in/liberatofernandoadm/">
+    <img 
+      alt="Linkedin Icon" 
+      height="40" 
+      width="40" 
+      src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=c1bbd3"
+    />
+  </a>
 </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
