@@ -55,3 +55,5 @@
     src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=c1bbd3" 
   />
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
