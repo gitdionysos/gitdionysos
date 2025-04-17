@@ -4,14 +4,25 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite UTC
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Atualizar README com dados do WakaTime
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Commit e Push
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Atualizar dados do WakaTime no README"
+          git push
