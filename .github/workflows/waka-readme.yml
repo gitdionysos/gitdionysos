@@ -18,11 +18,3 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-      - name: Commit e Push
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add README.md
-          git commit -m "Atualizar dados do WakaTime no README"
-          git push
