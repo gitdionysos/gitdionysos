@@ -3,7 +3,7 @@
 ### Sobre Mim
 
 * Formação: Administração
-* Função: Estágiário de Inteligência de Negócios
+* Função: Assistente de Negócios
 * Objetivo: Planejo criar uns projetos maneiros de automação focado em áreas empresariais, softwares, ERP's e bancos de dados.
 
 <div align="right">
